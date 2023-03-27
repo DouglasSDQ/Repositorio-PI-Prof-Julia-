@@ -1,0 +1,72 @@
+.blocoAzul {
+    background-color: #63B1BC;
+}
+
+.blocoPreto {
+    background-color: #1F2A44;
+}
+
+.blocoVermelho{
+    background-color: #ED145B;
+}
+.blocoAmarelo {
+    background-color: #EFB661;
+}
+
+.linhaCinza1 {
+    background-color: lightgray;
+    display: flex;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.linhaCinza2 {
+    background-color: lightgray;
+    display: flex;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    justify-content: flex-end;
+}
+.linhaCinza3{
+    background-color: lightgray;
+    display: flex;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    justify-content: center;
+
+}
+.linhaCinza4 {
+    background-color: lightgray;
+    display: flex;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+.linhaCinza5 {
+    background-color: lightgray;
+    display: flex;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    justify-content: space-around;
+}
+.linhaCinza6{
+    background-color: lightgray;
+    display: flex;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    justify-content: space-evenly;
+}
+
+
+h1 {
+    width: fit-content;
+    margin: auto;
+
+}
+
+.estilo{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}

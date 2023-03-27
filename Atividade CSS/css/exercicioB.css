@@ -1,0 +1,37 @@
+.blocoAzul {
+    background-color: #63B1BC;
+}
+
+.blocoPreto {
+    background-color: #1F2A44;
+}
+
+.blocoVermelho{
+    background-color: #ED145B;
+}
+.blocoAmarelo {
+    background-color: #EFB661;
+}
+
+.linhaCinza1 {
+    background-color: lightgray;
+    display: flex;
+    border-radius: 5px; 
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+
+h1 {
+    width: fit-content;
+    margin: auto;
+
+}
+
+.estilo{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
